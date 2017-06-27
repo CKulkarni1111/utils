@@ -2,4 +2,5 @@
 
 git remote add upstream https://github.com/linux-nvme/nvme-cli.git 
 git fetch upstream 
+git merge upstream/master
 git push origin master
