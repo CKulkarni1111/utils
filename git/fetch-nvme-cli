@@ -1,0 +1,5 @@
+#!/bin/bash
+
+git remote add upstream https://github.com/linux-nvme/nvme-cli.git 
+git fetch upstream 
+git push origin master
