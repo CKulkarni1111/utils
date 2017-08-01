@@ -527,7 +527,7 @@ set virtualedit=all
 "endif
 
 set foldlevelstart=5
-hi Search guibg=black guifg=white
+hi Search cterm=NONE ctermfg=black ctermbg=yellow
 
 
 function StripTrailingWhitespace()
